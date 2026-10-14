@@ -11,6 +11,11 @@ Website for **Tramber**, Bertrand Langeac's freelance IT company (Cloud Solution
 - `tools/` — Python used to trace logos/badges to SVG (OpenCV contours, k-means colour layers) and generate the network SVG. Paths inside are from the original workspace; adjust before reuse.
 - `tramber-client-logos-grey.zip` — the grey client logos bundle.
 
+## Deployment
+- This folder is a git repository published with **GitHub Pages** at https://tramber.github.io/ (`index.html` at the repo root is the live page).
+- Changes go live when committed and pushed. Keep `index.html` and `design/Main.dc.html` in sync before pushing.
+- Ask Bertrand before committing or pushing.
+
 ## Design system (Swiss editorial)
 - Fonts: **Archivo** (400/500/700/900) for type, **JetBrains Mono** for labels (uppercase, letter-spacing .06–.08em).
 - Ink `#111111`, paper `#F3F1EC`, muted grey `#6E6B66`, accent **`#FFB800`** (yellow; tweakable).
