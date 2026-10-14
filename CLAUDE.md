@@ -15,6 +15,8 @@ Website for **Tramber**, Bertrand Langeac's freelance IT company (Cloud Solution
 - This folder is a git repository published with **GitHub Pages** at https://tramber.github.io/ (`index.html` at the repo root is the live page).
 - Changes go live when committed and pushed. Keep `index.html` and `design/Main.dc.html` in sync before pushing.
 - Ask Bertrand before committing or pushing.
+- **Pushing:** the Cowork cloud session can edit and commit but cannot push (no access to SSH keys/tokens). Bertrand pushes himself from Claude CLI on his Mac, where a scoped GitHub token stored in 1Password is unlocked with biometrics. When a change is committed, ask him to push.
+- Commit identity: Bertrand Langeac <bertrand.langeac@gmail.com>.
 
 ## Design system (Swiss editorial)
 - Fonts: **Archivo** (400/500/700/900) for type, **JetBrains Mono** for labels (uppercase, letter-spacing .06–.08em).
