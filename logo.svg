@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>Tramber</title>
+  <rect width="512" height="512" fill="#0F2A47"/>
+  <path d="M136 148H376V204H284V380H228V204H136Z" fill="#FFFFFF"/>
+  <rect x="228" y="396" width="56" height="12" fill="#3FA7D6"/>
+</svg>
